@@ -1,43 +1,54 @@
-===================================================================
-*Part of something bigger*: make a real difference with open source
-===================================================================
+=========================
+Part of something bigger:
+=========================
 
 .. figure:: /_static/open-sauce.jpg
    :class: fill
 
+   CC BY https://www.flickr.com/photos/bitterjug/2608966304
 
-David Beitey, @davidjb
+Make a real difference with open source
 
-Available online at `talks.davidjb.com <http://talks.davidjb.com>`_.
+David Beitey @davidjb
 
 
 Are you...
 ==========
 
-* Looking for ways to improve your career prospects?
-* Want new skills to open up a range of opportunities?
-* Want an instant portfolio to show your future employers?
-* Think you'd like to make a real difference to real-world projects?
+.. note::
 
-Let's look at how **open source** can help with all of the above!
+   * Looking for ways to improve your career prospects?
+   * Want new skills to open up a range of opportunities?
+   * Want an instant portfolio to show your future employers?
+   * Think you'd like to make a real difference to real-world projects?
+
+* Want to work with the biggest software teams in the world?
+* Looking to skill up to open a range of opportunities?
+* Want an living portfolio to show your future employers?
+* Like to make a real difference to real-world projects?
+
+[picture]
 
 
-Who am I?
-=========
+.. slide:: Let's look at open source.
+   :level: 1
 
-* IT Honours graduate from JCU in 2008
-* Worked with the JCU eResearch Centre since
 
-* Developer (web applications)
-* System automator and administrator (Linux, Salt, Vagrant)
-* Project manager
-* Software to support research and development
+Me in 10 seconds
+================
 
+.. note::
+
+   You're about to learn why I try to only work with O/S.
+
+
+* '08 JCU IT Honours graduate
+* Currently work for the JCU eResearch Centre
+
+* DevOps:  development and operations
+* Web and software developer
+* Project management
 * Work primarily with open source
-
-  * Professional work would fall short
-  * My personal projects wouldn't succeed
-  * I simply couldn't do as much.
 
 
 What is open source?
@@ -45,14 +56,15 @@ What is open source?
 
 .. note::
 
-    It a development process which encourages the sharing of concepts or
-    designs, and allowing improvements, under a free licence (free, in terms
-    of freedom of speech).  Fundamentally represents the freedom of content
-    and ideas, sharing, collaboration.
+    * Development process, which encourages the sharing of concepts or
+      designs, and allowing improvements, under a free licence (free, in terms
+      of freedom of speech).
+    * Fundamentally represents the freedom of content and ideas, sharing,
+      collaboration.
 
-    Any idea can be open source, not just those related to IT:  beverages,
-    content (books/movies/pictures), research, Government.  Through sharing,
-    reuse and collaboration, everyone benefits.
+    * Any idea can be open source, not just those related to IT:  beverages,
+      content (books/movies/pictures), research, Government.  Through sharing,
+      reuse and collaboration, everyone benefits.
 
     In terms of software developers, this is the concept of making source code
     freely available in such a way that others may reuse, adapt, and
@@ -74,15 +86,21 @@ What is open source?
     open source ethos for software.
 
 
-* Development process involving the open sharing of concepts and designs
+* A development process
+* Open sharing of concepts, designs and work.
 * Freely licenced, in terms of *freedom* of speech
-* Any idea can be open source
-* Just because it's zero cost or available doesn't make it *open source*
+
+* Any idea can be open source...
+
+  * but just because it's $0 or doesn't make it *open source*.
+
 * Software:
 
-  * Developers: making source code openly available without restriction
-  * Users: the ability to access, change, view source code without restrction
-  * Community: open to accept criticism, contributions & collaboration
+  * **Developers**: making source code openly available (without restriction)
+  * **Users**: get the ability to access, change, view source code (without
+    restrction)
+  * **Community**: open to accept criticism, contributions & foster
+    collaboration
 
 
 Who uses open source?
@@ -98,20 +116,33 @@ Who uses open source?
     Web sites (CMSes, platforms, frameworks)
     Programming languages (Python, PHP, Ruby, Perl…)
 
-
-
+    So this is all well and good, but how does this benefit me?
 
 .. rst-class:: build
 
 * Me
 * You
-* (Essentially) everyone!
-* 2010: 98% of top 300 companies in USA
-* ... Open source logos ...
+* Everyone!
+* Yes, even Windows and Mac users.
+
+[open source logos]
+
+
+.. nextslide::
+
+* 2010: 98% of top 300 companies, 29% contribute back
+  (`1 <http://www.pcmag.com/article2/0,2817,2367829,00.asp>`_)
+* 2014: 50% of all enterprises expected to contribute & adopt
+  (`2 <http://www.slideshare.net/mjskok/2014-future-of-open-source-8th-annual-survey-results>`_)
+
 * Closed source uses open source as well:
 
-  * iOS, Mac OS X, Google Drive, Twitter, Facebook...
-  * They release a lot of code as open source as well.
+  * iOS, Mac OS X
+  * Twitter, Facebook, Google, Yahoo, Microsoft...
+  * Many closed companies release open source libraries and modules
+
+* **Why?**  Quality, freedom, features, security, ease of deployment, cost.
+
 
 
 How does this benefit me?
@@ -135,10 +166,15 @@ Open source, open resume
 
 .. note::
 
-    Improve your knowledge, skills:  version control, project methodology,
-    negotiation/collaboration, planning, discussion, coding standards,
-    industry best practices, expand specific tool and language skills,
-    discovery
+    Improve your knowledge, skills
+
+    * Technical tools
+    * Project methodology
+    * Negotiation and collaboration
+    * Planning
+    * Discussion and communication
+    * Industry best practices
+    * ... so much more ...
 
     Reduce effort: re-use free code and benefit.  I would never succeed on
     projects without open source; I just don't have the skill or time.
@@ -147,6 +183,10 @@ Open source, open resume
     they're looking at those photos of you on Facebook, they want to see your
     (positive) contributions.  Sometimes this will happen automatically --
     employers are out there.  I've had several job offers so far.
+
+    Minimise effort: If you've had a problem, someone else may well have
+    already solved it.  If they haven't solved it entirely, help them.  Or,
+    make your own code.
 
     Stand on the shoulders of giants: reap the benefits.  Build upon open code
     from others, add features, rework functionality, contribute fixes back to
@@ -167,45 +207,34 @@ Open source, open resume
     I can actually be an integral part of development.  Numerous bugs I've
     fixed and issues I've reported have affected many others. 
 
-    You might even help yourself.  I've done that plenty of times.
+    * Most IT development happens overseas, typically capitals
+    Yes, even regional Queensland.
 
-    Your contributions are yours: they associated with you, so you & others
-    can track them.  This helps if you need to find that code you wrote a
-    while back or are publicising yourself for a job. 
 
-* Improve knowledge and skills:
+* **Job offers.** Employers want to see what you've done. Your contributions are
+  yours and form your automatic CV.
 
-  * Technical tools
-  * Project methodology
-  * Negotiation and collaboration
-  * Planning
-  * Discussion and communication
-  * Industry best practices
-  * ... so much more ...
+* **Knowledge and skills.** Learn by doing in a real-world project.
 
-* Reduce effort: save time, energy, money and stop reinventing the wheel.  If
-  you've had a problem, someone else may well have already solved it.
+* **Minimise effort.**  Save time, effort, money and stop reinventing the wheel.
 
-  Being consistent in your coding and storage means you can always find what
-  you worked on.
-
-* Job offers:
-
-  * Employers are looking at your public profile
-  * Your contributions are yours, forever
-  * Open source code = automatic CV/resume
-
-* Make a difference:
-
-  * Your contributions will help others and theirs will help you.
-  * You might even help yourself...
-  * You can make a difference anywhere, even Townsville.
-
-* Connect with the world:
+* **Connect with the world.**
 
   * Be part of a huge team; one you may never meet
-  * Most IT development happens overseas, typically capitals
-  * Just because we're *isolated* doesn't mean anything.
+  * Just because we're not in Silicon Valley doesn't mean anything.
+
+
+Make a difference
+=================
+
+* Your contributions **will** help others, and you **will** benefit from
+  others.
+
+  * You might even help yourself!
+
+* You can make a difference from anywhere, and any position.
+
+* Be proud that your work is powering organisations everywhere.
 
 
 Getting started
@@ -221,6 +250,10 @@ Getting started
     get a lot for free, including code hosting.  Social coding platforms and
     social media are great starting points.  If you're not familiar with
     version control, learn through free tutorials.
+
+    * Free code hosting
+    * Connect with other projects
+    * Lots more tools, especially for students.
 
     Check out OpenHatch: complete 'training m issions' and gain skills. Find
     simple(ish) tasks to work on.
@@ -254,90 +287,180 @@ Getting started
     JSONResume that you can use to create beautiful looking resumes.
 
 
-* **Condition yourself**: Be open to new ideas. Remember there are lots of good
-ideas and technology out there. Reinventing the wheel is okay, if there's
-a good reason.  Make sure it's a good one before you do.
+* **First steps.**  Look at open source projects. Be open to new ideas.
 
-* **Create social coding profiles**:  get a GitHub and Bitbucket profile.  You
-get a lot for free, including code hosting.  Social coding platforms and
-social media are great starting points.  If you're not familiar with
-version control, learn through free tutorials.
+* **Create social coding profiles.**  Get `GitHub <https://github.com>`_ and
+  `Bitbucket <https://bitbucket.org/>`_ profiles.  (`Example
+  <http://git.io/djb>`_)
 
-* **Check out OpenHatch**: complete 'training m issions' and gain skills. Find
-simple(ish) tasks to work on.
+* **Leverage open source.** Actively seek to power your projects with open
+  components.
 
-* **Contribute back**: If you're working with open
-technologies, and notice something wrong, create an issue.  Work with the
-developer to see it through.
+* **Grow organically.** It's easiest to learn about & contribute to what
+  you're working on or interested in.
 
-* **Target open source**: Actively seek and power your projects with open
-source -- make sure they're free and unencumbered.  If something goes
-wrong, you can fix it or debug it and you're guaranteed later versions
-will be free too.
+.. nextslide::
+    :increment:
 
-* **Release your own code**: You can charge f
-or support, ask for donations for feature requests, etc, but odds are
-you'll benefit from people using and contributing to your own code, if
-it's open and free.
+* **Contribute back.**  If something's wrong or could be better, report an
+  issue. Work with the developer to solve it.
 
-* **Be open and accepting**:  Remember that others out there could be making
-their very first contribution to open source too.  You might beneFind
-projects you're interested in: If something doesn't work correctly, don 't
-get upset, jump in and help sort it out.  Noone is perfect, and software
-is just the same.  Odds are if you've hit a bug, someone else will soon
-(or has already).
+* **Release your own code.** If the code helps you, it'll help others.
 
-* **Attend conferences, user groups**:  mostly major cities in Australia, but
-there's always room for more groups in region Centres.  If not, travel. There
-are funds for conferences (eg PyCon AU) to help people get there, and student
-ticket discounts. If not, watch online.
+* **Be open and accepting.** It might be someone's first contribution.
 
-* **Open resume**: Create an online resume and make it open too.  Consider.
-making an open source repo for your resume.  There's coding tools like
-JSONResume that you can use to create beautiful looking resumes.
+* **Create an open resume.** Create an online resume, and make it open too.
+
+* **Attend conferences, user groups.**  In person, online; get further
+  involved.
 
 
 Myth busting
 ============
 
-It's all about coding, I can't help:  code is the core, but you don't have to programme to make a difference.  Anyone can report bugs and contribute to an open bug reports, or suggest features. Adding or editing documentation is usually just as easy to fix speling mistakes. 
-I can do it myself:  With open source, you can make projects you never dreamed of or would never have the time to handle.  Stand on the shoulders of giants.  It's safter and quicker in the short term, and long term.  Try implementing a web server from scratch.  If you've got 123 years (Nginx, OpenHub) and $6.7m, go for it.  You might succeed, and maybe you can buy yourself a community too.  Good luck.  Alternatively, I promise to do this for you & maintain it forever for $6m...interested?   If something really bugs you, submit a patch.  If something really, really bugs you (MySQL → MariaDB, OpenOffice → LibreOffice), fork the project.  You're probably not alone. 
-This software isn't safe:  having open source code is safer than closed source.  Communities have 'responsible disclosure' frameworks and tend to care because it reflects on them.  Regular audits are possible because you and others can see and review the code.
-I can't get support: With open source code, you have flexibility and a wide range of people with skill in your software.  Flexibility to choose, more than just 1 vendor,  as the software is open, or use the community for free.  The community grows together, everyone wins.
-Can't make money: run software as a service (skilled people will run their own, you charge for service for those that can't be bothered),  payment for support (Enterprise support, eg Canonical/Ubuntu), feature additions, donations, Gittip.  Getting a good job sounds pretty beneficial to me!
-People will steal my ideas: licensing controls how code is used, you maintain copyright (although you don't have to, public domain is possible), commits are recorded with your details.  Theft is always possible, but you're shipping software: piracy is always a fact of life.  FYI: if you've got some magic secret sauce to a startup, then you can definitely keep it to yourself; consider making libraries, support code, other things you can benefit from help with.
+.. note::
+
+   Can't help: Code is the core, but you don't have to programme to make a
+   difference.  Anyone can report bugs and contribute to an open bug reports,
+   or suggest features. Adding or editing documentation is usually just as
+   easy to fix speling mistakes.
+
+   Myself: With open source, you can make projects you never dreamed of or would never
+   have the time to handle.  It's safter
+   and quicker in the short term, and long term.  Try implementing a web
+   server from scratch.  If you've got 123 years (Nginx, OpenHub) and $6.7m,
+   go for it.  You might succeed, and maybe you can buy yourself a community
+   too.  Good luck.  Alternatively, I promise to do this for you & maintain it
+   forever for $6m...interested?   If something really bugs you, submit a
+   patch.  If something really, really bugs you (MySQL → MariaDB, OpenOffice →
+   LibreOffice), fork the project.  You're probably not alone.
+
+   Support: With open source code, you have flexibility and a wide range of
+   people with skill in your software.  Flexibility to choose, more than just
+   1 vendor,  as the software is open, or use the community for free.  The
+   community grows together, everyone wins.
+
+   Safety:  having open source code is safer than closed source.  Communities
+   have 'responsible disclosure' frameworks and tend to care because it
+   reflects on them.  Regular audits are possible because you and others can
+   see and review the code.
+   
+   Can't make money: run software as a service (skilled people will run their
+   own, you charge for service for those that can't be bothered),  payment
+   for support (Enterprise support, eg Canonical/Ubuntu), feature additions,
+   donations, Gittip.  Getting a good job sounds pretty beneficial to me!
+   
+   People will steal my ideas: licensing controls how code is used, you
+   maintain copyright (although you don't have to, public domain is
+   possible), commits are recorded with your details.  Theft is always
+   possible, but you're shipping software: piracy is always a fact of life.
+   FYI: if you've got some magic secret sauce to a startup, then you can
+   definitely keep it to yourself; consider making libraries, support code,
+   other things you can benefit from help with.
+
+   Cheaper:  what if a vendor/company disappears?  Starts charging lots more?
+   What's your escape plan?
 
 
-Conclusion
-==========
+.. rst-class:: build
 
-Open source is fundamental to all software development
-Start building your portfolio through your contributions:  it happens automatically
-It's easy to get started: use open source projects in your own work, report bugs, contribute some code
-Make your code open: open code helps others with similar problems. Promote your open code, people will eventually find you.
-Actively seek and power your projects with open source.
-Remember you have the right to change their code! 
-If you make improvements submit a pull request or patch back to the original author
-Everyone grows together.
-Provide prospective employers with your public profile URLs up front and explain what you've done.
-Follow your passions:  if you're interested in getting further involved, projects may have ways of being part of code review teams, issue triage, support, etc.  IRC channels, and so forth. 
+* **I can't help.**  It's not all about programming.  It's easy to contribute.
+
+* **I can do it all myself.**  Maybe, if you're Google.
+
+* **Open source isn't safe.**  More eyes on the code make it safer. Open
+  source makes audits easy.
+
+* **I can't get support.**  Open technologies have wider skillbases.
+  Communities are willing to help.
+
+* **There's no money to be made.**  Sell support, provide SaaS, charge for
+  further dev.
+
+* **Closed source is cheaper.**  What's the price of freedom?
 
 
-Shameless plug
-==============
+.. slide::
 
-Python NQ interest group: 
+    .. figure:: /_static/myth-busted.jpg
+       :class: fill
+
+
+So, now what?
+=============
+
+.. note::
+
+   Make your code open: open code helps others with similar problems. Promote
+   your open code, people will eventually find you.
+
+   Remember you have the right to change their code!  However, if you make
+   improvements try to submit a pull request or patch back to the original
+   author.
+
+   Follow your passions:  if you're interested in getting further involved,
+   projects may have ways of being part of code review teams, issue triage,
+   support, etc.  IRC channels, and so forth.
+
+
+* Open source is fundamental to development
+* It's easy to get started now:
+
+  * Create your accounts.  Establish an identity.
+  * Choose open source projects for your work
+  * Grow your skills
+  * Contribute: bug reports, suggestions, patches
+  * Make your own code open for others
+  * Get further involved in projects and make a difference.
+
+* Provide prospective employers with public profile URLs
+* Follow your passions!
+
+
+Shameless plugs
+===============
+
+* Python interest group (PyNQ)
+
+  If you work with or are interested in Python, come see me
+  or get in touch at http://pynq.org.
+
+  .. image:: /_static/python-logo-master-v3-TM.png
+
+* Follow me:
+
+  * http://davidjb.com
+  * Twitter ``@davidjb_``
+  * Everywhere else: ``@davidjb``
 
 
 Links and Resources
 ===================
 
-https://en.wikipedia.org/wiki/Open_source
-Free Software Foundation https://www.fsf.org
-GNU Project: https://www.gnu.org
-Open Source Initiative: http://opensource.org/ 
-For software:
-https://education.github.com/ -- benefits of git and github
-https://bitbucket.org/plans -- unlimited academic plans
+* Open Source Initiative: http://opensource.org/
+* Free Software Foundation: https://www.fsf.org
+* GNU Project: https://www.gnu.org
+* Tools:
 
-Follow me @davidjb_ or @davidjb on GitHub or IRC.
+  * GitHub: https://education.github.com/
+    (free micro plan, various other tools)
+  * Bitbucket: https://bitbucket.org/plans
+    (unlimited academic plans)
+  * JSONResume: http://jsonresume.com
+
+* This talk: http://talks.davidjb.com, http://github.com/davidjb/talks
+
+
+Built with
+==========
+
+* Hieroglyph: http://hieroglyph.io
+* Sphinx: http://sphinx-doc.org
+* Python: http://python.org
+* Buildout: http://buildout.org
+* GIMP: http://gimp.org
+* VIM: http://vim.org
+* Git: http://git-scm.org
+
+
+
