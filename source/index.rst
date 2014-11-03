@@ -5,7 +5,10 @@
 .. figure:: /_static/open-sauce.jpg
    :class: fill
 
-   CC BY-SA https://www.flickr.com/photos/bitterjug/2608966304
+
+David Beitey, @davidjb
+
+Available online at `talks.davidjb.com <http://talks.davidjb.com>`_.
 
 
 Are you...
