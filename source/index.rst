@@ -92,7 +92,7 @@ What is open source?
 
 * Any idea can be open source...
 
-  * but just because it's $0 or doesn't make it *open source*.
+  * but just because it's $0 doesn't make it *open source*.
 
 * Software:
 
