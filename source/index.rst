@@ -460,6 +460,9 @@ Built with
 * GIMP: http://gimp.org
 * VIM: http://vim.org
 * Git: http://git-scm.org
+* GitHub: http://github.com
+* Hosted by GitHub pages.
+
 
 
 
