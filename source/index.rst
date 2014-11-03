@@ -120,12 +120,11 @@ Who uses open source?
 
 .. rst-class:: build
 
-* Me
+* Me (this presentation)
 * You
 * Everyone!
 * Yes, even Windows and Mac users.
-
-[open source logos]
+* [open source logos]
 
 
 .. nextslide::
