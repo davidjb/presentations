@@ -22,10 +22,10 @@ Are you...
    * Want an instant portfolio to show your future employers?
    * Think you'd like to make a real difference to real-world projects?
 
-* Want to work with the biggest software teams in the world?
-* Looking to skill up to open a range of opportunities?
-* Want an living portfolio to show your future employers?
-* Like to make a real difference to real-world projects?
+* Wanting to work with the biggest software teams in the world?
+* Looking to skill up and open a range of opportunities?
+* Seeking live portfolio to show your future employers?
+* Wanting to make a *real* difference to *real-world* projects?
 
 [picture]
 
