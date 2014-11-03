@@ -448,7 +448,7 @@ Links and Resources
     (unlimited academic plans)
   * JSONResume: http://jsonresume.com
 
-* This talk: http://talks.davidjb.com, http://github.com/davidjb/talks
+* This talk: http://davidjb.com/talks, http://github.com/davidjb/talks
 
 
 Built with
