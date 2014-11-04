@@ -5,6 +5,14 @@
 Part of something bigger:
 =========================
 
+.. note::
+
+    Ask about open source, who has used software?
+    Who has contributed something?
+
+    Don't say effectively, actually
+
+
 .. figure:: /_static/open-sauce.jpg
    :class: fill
 
@@ -55,7 +63,12 @@ Me in 20 seconds
 * 2008 IT honours graduate from JCU
 * Currently working for the JCU eResearch Centre
 * DevOps: Web development, system administration for research
-* Primarily with open source
+* Primarily with open source:
+
+  * Web frameworks
+  * Libraries and tools
+  * Servers & operating systems
+  * ...and more
 
 
 .. slide::
@@ -73,15 +86,16 @@ What is open source?
 
 .. note::
 
-    * Development process, which encourages the sharing of concepts or
-      designs, and allowing improvements, under a free licence (free, in terms
-      of freedom of speech).
-    * Fundamentally represents the freedom of content and ideas, sharing,
-      collaboration.
+   * **A development process involving openly sharing blueprints and ideas.**
+   * Content is freely licenced (*free*, as in speech)
 
-    * Any idea can be open source, not just those related to IT:  beverages,
-      content (books/movies/pictures), research, Government.  Through sharing,
-      reuse and collaboration, everyone benefits.
+   * In terms of software:
+
+     * iOS/iTunes: just because it's $0 doesn't make it *open source*.
+     * **Developers**: make source code freely available for reuse & review
+     * **Users**: get the ability to access and change source code (without
+        restriction)
+     * **Community**: bonds together to fix issues and add features
 
 
 * **A development process involving openly sharing blueprints and ideas.**
@@ -107,7 +121,7 @@ Who uses open source?
    * Yes, even Windows users.
    * ~82% of web content involves open source.
 
-    So this is all well and good, but how can this benefit me?
+   So this is all well and good, but how can this benefit me?
 
 .. rst-class:: build
 
@@ -149,13 +163,18 @@ Why open source?
 
 .. note::
 
-    Why?  Higher quality, freedom of changing code, better features, higher
-    security, access to skill bases.
+    Why?  A 2014 survey from BlackDuck (OpenHub) of professionals:
+    * Cost (maintenance etc)
+    * Higher quality
+    * Freedom of changing code
+    * Better features, higher
+    * Security
+    * Access to skill bases.
 
-    It shows, since closed source
+    It shows, since closed source is using open source...
 
 * Cost, quality, customisation, security, ease of deployment,
-  maintenance effort.
+  maintenance effort.  (2014 survey, BlackDuck/OpenHub)
 
 * It shows; closed source builds on open source:
 
@@ -180,7 +199,7 @@ Awesome, but how can this benefit me?
     What do you call a Linux volunteer who just contributed his or her 6th patch
     to the Linux kernel? **Hired**.  -- InformationWeek
 
-    The joke is that after 5, you'll already have a job offer.
+    The in-joke is that after 5, you'll already have a job offer.
 
     From a corporate POV, it shows O/S in use, and in demand.
 
@@ -191,52 +210,30 @@ Open opportunities: open source
 
 .. note::
 
-    XXX Rework
-
     Involvement in Open source benefits everyone, especially someone
     personally.
 
-    Improve your knowledge: tools, methods, collaboration, Negotiation, best
-    practice
+    * **Jobs & employment.** Employers want to see what you've done. Your
+      contributions form your automatic CV.
 
-    Reduce effort: re-use free code and benefit.  I would never succeed on
-    projects without open source; I just don't have the skill or time.
+    * **Knowledge and skills.** Learn by doing on real-world projects.
 
-    Job offers: Employers are looking at your public profile; just like how
-    they're looking at those photos of you on Facebook, they want to see your
-    (positive) contributions.  Sometimes this will happen automatically --
-    employers are out there.  I've had several job offers so far.
+      Improve your knowledge: tools, methods, collaboration, Negotiation, best
+      practice
 
-    Minimise effort: If you've had a problem, someone else may well have
-    already solved it.  If they haven't solved it entirely, help them.  Or,
-    make your own code.
+    * **Minimise effort.**  Save time, effort, money by not reinventing the wheel.
 
-    Stand on the shoulders of giants: reap the benefits.  Build upon open code
-    from others, add features, rework functionality, contribute fixes back to
-    the world at large.
+      Do things you couldn't do before without the skill!
 
-    You're not alone: I typically work alone, but I work with all these people
-    beside me.  For me, I'll probably never meet these people.  For someone
-    else, I'm one of their team of 1000s of people and I might well never
-    know.  That's an interesting feeling.
+    * **Connect with the world.**  Be part of a team from all across the world.
 
-    The open source community is likely to be more receptive to support
-    requests.  I can't count the number of times I've had to deal with company
-    support staff that either don't understand, can't help, or don't care.
-    Dealing directly with a contributor on a software project means they can
-    make a difference!
+      I work alone, but with so many people.  I'm part of someone else's
+      massive team without knowing it; interesting feeling
 
-    Connecting with IT in the wild:  I'm alone in an office in Townsville, but
-    I can actually be an integral part of development.  Numerous bugs I've
-    fixed and issues I've reported have affected many others. 
-    
-    You can be part of a huge team that you'll never meet.
+    * **Make a difference.** Your contributions will help you and others.
 
-    * Most IT development happens overseas, typically capitals
-    Yes, even regional Queensland.
-
-    Your contributions will make a difference in organisations everywhere,
-    even without you knowing.
+      Open source community is passionate.  It's more than just a job so tend
+      to care more.
 
 * **Jobs & employment.** Employers want to see what you've done. Your
   contributions form your automatic CV.
@@ -255,48 +252,27 @@ Getting started
 
 .. note::
 
-    XXX Rework
+    * Create profiles: free source code hosting, automatic profiles of
+      activity.  Embrace version control (tutorials etc); its importance can't
+      be overstated. Not just 3AM when something goes wrong.  GH and BB have
+      education freebies.
 
-    Condition yourself: Be open to new ideas. Remember there are lots of good
-    ideas and technology out there. Reinventing the wheel is okay, if there's
-    a good reason.  Make sure it's a good one before you do.
+    * Release your code:  if it's helped you, it'll help others.  Marketing
+      not required; people will find you.
 
-    Create social coding profiles:  get a GitHub and Bitbucket profile.  You
-    get a lot for free, including code hosting.  Social coding platforms and
-    social media are great starting points.  If you're not familiar with
-    version control, learn through free tutorials.
+    * Leverage other projects:  if something does what you need, use it or
+      adapt it.
 
-    * Free code hosting
-    * Connect with other projects
-    * Lots more tools, especially for students.
+    * Contribute back: something wrong, create an issue.  Suggest features.
+      Submit patches or pull requests of code.
 
-    Contribute back: If you're working with open
-    technologies, and notice something wrong, create an issue.  Work with the
-    developer to see it through.
+    * Attend conferences, user groups:  mostly major cities in Australia, but
+      there's always room for more groups in region Centres.
 
-    Target open source: Actively seek and power your projects with open
-    source -- make sure they're free and unencumbered.  If something goes
-    wrong, you can fix it or debug it and you're guaranteed later versions
-    will be free too.
+    * Be open:  you can't know everything, but you can learn from others.
+      There's always new ideas.
 
-    Release your own code: You can charge f
-    or support, ask for donations for feature requests, etc, but odds are
-    you'll benefit from people using and contributing to your own code, if
-    it's open and free.
 
-    Be open and accepting:  Remember that others out there could be making
-    their very first contribution to open source too.  You might beneFind
-    projects you're interested in: If something doesn't work correctly, don 't
-    get upset, jump in and help sort it out.  Noone is perfect, and software
-    is just the same.  Odds are if you've hit a bug, someone else will soon
-    (or has already).
-
-    Attend conferences, user groups:  mostly major cities in Australia, but
-    there's always room for more groups in region Centres.
-
-    Open resume: Create an online resume and make it open too.  Consider
-    making an open source repo for your resume.  There's coding tools like
-    JSONResume that you can use to create beautiful looking resumes.
 
 
 * **Create your profile.** Sign up for `GitHub <https://github.com>`_ and
@@ -319,46 +295,28 @@ Myth busting
 
 .. note::
 
-   Can't help: Code is the core, but you don't have to programme to make a
-   difference.  Anyone can report bugs and contribute to an open bug reports,
-   or suggest features. Adding or editing documentation is usually just as
-   easy to fix speling mistakes.
+   * **I can't help.**  It's not all about programming, anyone can add fixes.
 
-   Myself: With open source, you can make projects you never dreamed of or would never
-   have the time to handle.  It's safter
-   and quicker in the short term, and long term.  Try implementing a web
-   server from scratch.  If you've got 123 years (Nginx, OpenHub) and $6.7m,
-   go for it.  You might succeed, and maybe you can buy yourself a community
-   too.  Good luck.  Alternatively, I promise to do this for you & maintain it
-   forever for $6m...interested?   If something really bugs you, submit a
-   patch.  If something really, really bugs you (MySQL → MariaDB, OpenOffice →
-   LibreOffice), fork the project.  You're probably not alone.
+   * **I can do it all myself.**  Nginx web server took 123 years to make and
+     $6m.  Got that money?
 
-   Support: With open source code, you have flexibility and a wide range of
-   people with skill in your software.  Flexibility to choose, more than just
-   1 vendor,  as the software is open, or use the community for free.  The
-   community grows together, everyone wins.
+   * **Open source isn't safe.**  More eyes on the code make it safer. Open
+     source makes audits easy.  Responsible disclosure and always more
+     attentive than closed source.
 
-   Safety:  having open source code is safer than closed source.  Communities
-   have 'responsible disclosure' frameworks and tend to care because it
-   reflects on them.  Regular audits are possible because you and others can
-   see and review the code.
-   
-   Can't make money: run software as a service (skilled people will run their
-   own, you charge for service for those that can't be bothered),  payment
-   for support (Enterprise support, eg Canonical/Ubuntu), feature additions,
-   donations, Gittip.  Getting a good job sounds pretty beneficial to me!
-   
-   People will steal my ideas: licensing controls how code is used, you
-   maintain copyright (although you don't have to, public domain is
-   possible), commits are recorded with your details.  Theft is always
-   possible, but you're shipping software: piracy is always a fact of life.
-   FYI: if you've got some magic secret sauce to a startup, then you can
-   definitely keep it to yourself; consider making libraries, support code,
-   other things you can benefit from help with.
+   * **I can't get support.**  Open technologies have wider skillbases and you
+     aren't locked in to a company or vendor.  Communities are willing to
+     help.
 
-   Cheaper:  what if a vendor/company disappears?  Starts charging lots more?
-   What's your escape plan?
+   * **There's no money to be made.**  Sell development, provide SaaS,
+     sell support to Enterprise.
+
+   * **Closed source is cheaper.**  Price of freedom?
+     What if a vendor/company disappears?  Starts charging lots more?
+     what's your escape plan?  Open source, just pick someone else.
+
+   * **I can't work in a regional area.**  Open source is everywhere.
+     Companies hire remotely.
 
 
 .. rst-class:: build
