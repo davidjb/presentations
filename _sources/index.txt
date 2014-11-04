@@ -121,7 +121,7 @@ Who uses open source?
    * Yes, even Windows users.
    * ~82% of web content involves open source.
 
-    So this is all well and good, but how can this benefit me?
+   So this is all well and good, but how can this benefit me?
 
 .. rst-class:: build
 
@@ -199,7 +199,7 @@ Awesome, but how can this benefit me?
     What do you call a Linux volunteer who just contributed his or her 6th patch
     to the Linux kernel? **Hired**.  -- InformationWeek
 
-    The joke is that after 5, you'll already have a job offer.
+    The in-joke is that after 5, you'll already have a job offer.
 
     From a corporate POV, it shows O/S in use, and in demand.
 
@@ -312,8 +312,8 @@ Myth busting
      sell support to Enterprise.
 
    * **Closed source is cheaper.**  Price of freedom?
-    What if a vendor/company disappears?  Starts charging lots more?
-    what's your escape plan?  Open source, just pick someone else.
+     What if a vendor/company disappears?  Starts charging lots more?
+     what's your escape plan?  Open source, just pick someone else.
 
    * **I can't work in a regional area.**  Open source is everywhere.
      Companies hire remotely.
