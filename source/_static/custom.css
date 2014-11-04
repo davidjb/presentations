@@ -1,3 +1,7 @@
+.strike {
+    text-decoration: line-through;
+    color: red;
+}
 .slides > article.level-1 {
     padding-right: 0px;
 }

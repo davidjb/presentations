@@ -1,3 +1,6 @@
+.. role:: strike
+   :class: strike
+
 =========================
 Part of something bigger:
 =========================
@@ -28,7 +31,7 @@ Are you...
 * Wanting to make a *real* difference to *real-world* projects?
 
 
-.. slide:: Let's look at open source.
+.. slide:: Let's look at open source!
    :level: 1
 
 
@@ -158,6 +161,7 @@ Who uses open source?
 .. _Android:  https://developer.android.com/distribute/tools/promote/brand.html
 
 .. nextslide::
+   :increment:
 
 * **2010**: 98% of top 300 companies, 29% contribute back
   (`1 <http://www.pcmag.com/article2/0,2817,2367829,00.asp>`_)
@@ -392,7 +396,8 @@ Myth busting
 
 .. rst-class:: build
 
-* **I can't help.**  It's not all about programming.  It's easy to contribute.
+* **I can't help.**  It's not all about programming.  It's easy to contribute
+  :strike:`speling correcxions` spelling corrections.
 
 * **I can do it all myself.**  Maybe, if you're Google.
 
