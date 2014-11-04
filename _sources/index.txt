@@ -15,42 +15,47 @@ Make a real difference with open source
 David Beitey @davidjb
 
 
-Are you...
-==========
+Do you want...
+==============
 
 .. note::
 
-   * Looking for ways to improve your career prospects?
-   * Want new skills to open up a range of opportunities?
-   * Want an instant portfolio to show your future employers?
-   * Think you'd like to make a real difference to real-world projects?
+   * ...to work with the world's biggest software team?
+   * ...to expand your skillset & open up new opportunities?
+   * ...to create a dynamic portfolio to show your future employers?
+   * ...to make a *real* difference to *real-world* projects?
 
-* Wanting to work with the biggest software teams in the world?
-* Looking to skill up and open a range of opportunities?
-* Seeking live portfolio to show your future employers?
-* Wanting to make a *real* difference to *real-world* projects?
+* ...to work with the world's biggest software team?
+* ...to expand your skillset & open up new opportunities?
+* ...to create a dynamic portfolio to show your future employers?
+* ...to make a *real* difference to *real-world* projects?
+
+Or maybe:
+
+* ...to improve your business' IT solutions?
 
 
 .. slide:: Let's look at open source!
    :level: 1
 
 
-Me in 10 seconds
+Me in 20 seconds
 ================
 
 .. note::
 
+   * 2008, IT honours graduate from JCU
+   * Working for the eResearch Centre
+   * Web development, system administration for research
+   * Primarily with open source
+
    You're about to learn why I try to only work with O/S:
    because it's awesome.
 
-
-* '08 JCU IT Honours graduate
-* Currently work for the JCU eResearch Centre
-
-* DevOps:  development and operations
-* Web and software developer
-* Project management
-* Working primarily with open source software
+* 2008 IT honours graduate from JCU
+* Currently working for the JCU eResearch Centre
+* DevOps: Web development, system administration for research
+* Primarily with open source
 
 
 .. slide::
@@ -78,40 +83,17 @@ What is open source?
       content (books/movies/pictures), research, Government.  Through sharing,
       reuse and collaboration, everyone benefits.
 
-    In terms of software developers, this is the concept of making source code
-    freely available in such a way that others may reuse, adapt, and
-    redistribute it as they see fit.
 
-    In terms of software users, this means you can download or access a
-    program, a library, etc without restriction, and legally give copies away
-    to your friends (or the world).
+* **A development process involving openly sharing blueprints and ideas.**
+* Content is freely licenced (*free*, as in speech)
 
-    Anyone can make zero-cost software or make code available publicly, but
-    this doesn't make it open source.  It needs to be but licenced correctly
-    for open reuse and redistribution. Most things tend to be.  Selling: It is
-    possible to sell open source code, but for most practical intents and
-    purposes, open source code will be available for zero cost.  See the OSI
-    for the full definition and comparison with 'free software'.
+* In terms of software:
 
-    In addition, being community-minded and open to accept criticism,
-    contributions, and collaboration around further development embody the
-    open source ethos for software.
-
-* A development process
-* Open sharing of concepts, designs and work.
-* Freely licenced, in terms of *freedom* of speech
-
-* Any idea can be open source...
-
-  * but just because it's $0 doesn't make it *open source*.
-
-* Software:
-
-  * **Developers**: making source code openly available (without restriction)
-  * **Users**: get the ability to access, change, view source code (without
-    restrction)
-  * **Community**: being open to accept criticism, contributions & foster
-    collaboration
+  * iOS/iTunes: just because it's $0 doesn't make it *open source*.
+  * **Developers**: make source code freely available for reuse & review
+  * **Users**: get the ability to access and change source code (without
+    restriction)
+  * **Community**: bonds together to fix issues and add features
 
 
 Who uses open source?
@@ -119,15 +101,13 @@ Who uses open source?
 
 .. note::
 
-    Browsers (Firefox, Chromium)
-    OSes and servers (Linux, BSD)
-    Phones (Android, Firefox)
-    Web servers (Apache/Nginx)
-    Databases (MySQL/MariaDB, Postgres)
-    Web sites (CMSes, platforms, frameworks)
-    Programming languages (Python, PHP, Ruby, Perl…)
+   * Me (this presentation, my OS etc)
+   * You (websites you load)
+   * Everyone!  (browsers)
+   * Yes, even Windows users.
+   * ~82% of web content involves open source.
 
-    So this is all well and good, but how does this benefit me?
+    So this is all well and good, but how can this benefit me?
 
 .. rst-class:: build
 
@@ -153,60 +133,71 @@ Who uses open source?
 
 * ~82% of websites use an open source server or programming language.
   (`Source`_)
+* **2014**: 50% of all enterprises expected to contribute & adopt open source
+  (`2
+  <http://www.slideshare.net/mjskok/2014-future-of-open-source-8th-annual-survey-results>`_)
 
-* `Tux`_ © lewing@isc.tamu.edu, Android CC-BY `Android`_
+`Tux`_ © lewing@isc.tamu.edu, Android CC-BY `Android`_
 
 .. _Tux: http://www.isc.tamu.edu/~lewing/linux/
 .. _Source: http://w3techs.com/technologies/cross/web_server/ranking
 .. _Android:  https://developer.android.com/distribute/tools/promote/brand.html
 
-.. nextslide::
-   :increment:
 
-* **2010**: 98% of top 300 companies, 29% contribute back
-  (`1 <http://www.pcmag.com/article2/0,2817,2367829,00.asp>`_)
-* **2014**: 50% of all enterprises expected to contribute & adopt
-  (`2 <http://www.slideshare.net/mjskok/2014-future-of-open-source-8th-annual-survey-results>`_)
-* **Why?**  Quality, freedom, features, security, ease of deployment, cost.
+Why open source?
+================
 
-* Closed source uses open source as well:
+.. note::
+
+    Why?  Higher quality, freedom of changing code, better features, higher
+    security, access to skill bases.
+
+    It shows, since closed source
+
+* Cost, quality, customisation, security, ease of deployment,
+  maintenance effort.
+
+* It shows; closed source builds on open source:
 
   * iOS, Mac OS X, Windows (kinda)
   * Twitter, Facebook, Google, Yahoo, Amazon, Microsoft Azure...
-  * Many companies release code as open source libraries and modules
+
+.. image:: /_static/apple-meme.jpg
+   :align: center
 
 
 
-Awesome, but how does this benefit me?
-======================================
+Awesome, but how can this benefit me?
+=====================================
 
     What do you call a Linux volunteer who just contributed his or her 6th patch
     to the Linux kernel? **Hired**.
 
-    -- `InformationWeek <http://www.informationweek.com/strategic-cio/team-building-and-staffing/it-careers-open-source-open-resume/d/d-id/1297734>`_
+    -- `InformationWeek <http://www.informationweek.com/strategic-cio/team-building-and-staffing/it-careers-open-source-open-resume/d/d-id/1297734>`_, 2014
 
 .. note::
+
+    What do you call a Linux volunteer who just contributed his or her 6th patch
+    to the Linux kernel? **Hired**.  -- InformationWeek
 
     The joke is that after 5, you'll already have a job offer.
 
-    The complete article is well worth a read, and covers essentially
-    everything that I've talked about.
+    From a corporate POV, it shows O/S in use, and in demand.
 
 
-Open source, open resume
-========================
+
+Open opportunities: open source
+===============================
 
 .. note::
 
-    Improve your knowledge, skills
+    XXX Rework
 
-    * Technical tools
-    * Project methodology
-    * Negotiation and collaboration
-    * Planning
-    * Discussion and communication
-    * Industry best practices
-    * ... so much more ...
+    Involvement in Open source benefits everyone, especially someone
+    personally.
+
+    Improve your knowledge: tools, methods, collaboration, Negotiation, best
+    practice
 
     Reduce effort: re-use free code and benefit.  I would never succeed on
     projects without open source; I just don't have the skill or time.
@@ -238,29 +229,33 @@ Open source, open resume
     Connecting with IT in the wild:  I'm alone in an office in Townsville, but
     I can actually be an integral part of development.  Numerous bugs I've
     fixed and issues I've reported have affected many others. 
+    
+    You can be part of a huge team that you'll never meet.
 
     * Most IT development happens overseas, typically capitals
     Yes, even regional Queensland.
 
+    Your contributions will make a difference in organisations everywhere,
+    even without you knowing.
 
-* **Job offers.** Employers want to see what you've done. Your contributions are
-  yours and form your automatic CV.
+* **Jobs & employment.** Employers want to see what you've done. Your
+  contributions form your automatic CV.
 
-* **Knowledge and skills.** Learn by doing in a real-world project.
+* **Knowledge and skills.** Learn by doing on real-world projects.
 
-* **Minimise effort.**  Save time, effort, money and stop reinventing the wheel.
+* **Minimise effort.**  Save time, effort, money by not reinventing the wheel.
 
-* **Connect with the world.**
+* **Connect with the world.**  Be part of a team from all across the world.
 
-  * Be part of a huge team; one you may never meet
-  * Just because we're not in Silicon Valley doesn't mean anything.
-
+* **Make a difference.** Your contributions will help you and others.
 
 
 Getting started
 ===============
 
 .. note::
+
+    XXX Rework
 
     Condition yourself: Be open to new ideas. Remember there are lots of good
     ideas and technology out there. Reinventing the wheel is okay, if there's
@@ -274,9 +269,6 @@ Getting started
     * Free code hosting
     * Connect with other projects
     * Lots more tools, especially for students.
-
-    Check out OpenHatch: complete 'training m issions' and gain skills. Find
-    simple(ish) tasks to work on.
 
     Contribute back: If you're working with open
     technologies, and notice something wrong, create an issue.  Work with the
@@ -307,44 +299,19 @@ Getting started
     JSONResume that you can use to create beautiful looking resumes.
 
 
-* **First steps.**  Look at open source projects. Be open to new ideas.
+* **Create your profile.** Sign up for `GitHub <https://github.com>`_ and
+  `Bitbucket <https://bitbucket.org/>`_ accounts.
 
-* **Create social coding profiles.**  Get `GitHub <https://github.com>`_ and
-  `Bitbucket <https://bitbucket.org/>`_ profiles.  (`Example
-  <http://git.io/djb>`_)
+* **Release your code.** If it helps you, it'll help others.
 
-* **Leverage open source.** Actively seek to power your projects with open
-  components.
+* **Leverage other projects.** Don't reinvent the wheel.
 
-* **Grow organically.** It's easiest to learn about & contribute to what
-  you're working on or interested in.
+* **Contribute back.**  Participate by reportng issues, submitting features, &
+  working with the community on solutions.
 
-.. nextslide::
-    :increment:
+* **Attend conferences & user groups.**  Get further involved.
 
-* **Contribute back.**  If something's wrong or could be better, report an
-  issue. Work with the developer to solve it.
-
-* **Release your own code.** If the code helps you, it'll help others.
-
-* **Be open and accepting.** It might be someone's first contribution.
-
-* **Create an open resume.** Create an online resume, and make it open too.
-
-* **Attend conferences, user groups.**  In person, online; get further
-  involved.
-
-
-Making a difference
-===================
-
-* Your contributions **will** help others and their work **will** benefit you.
-
-  * You might even help yourself!
-
-* You can make a difference from anywhere, and any job.
-
-* Be proud that your work could power organisations everywhere.
+* **Be open to new ideas.**  It's a fast moving space!
 
 
 Myth busting
@@ -412,6 +379,9 @@ Myth busting
 
 * **Closed source is cheaper.**  What's the price of freedom?
 
+* **I can't work in a regional area.**  Open source is everywhere. Companies
+  hire remotely.
+
 
 .. slide::
 
@@ -419,35 +389,23 @@ Myth busting
        :class: fill
 
 
-So, now what?
-=============
+.. slide:: Get on board & make a difference!
+   :level: 1
 
-.. note::
+   .. rst-class:: slide-footer
 
-   Make your code open: open code helps others with similar problems. Promote
-   your open code, people will eventually find you.
+   Slides @ http://davidjb.com/talks, http://github.com/davidjb/talks
 
-   Remember you have the right to change their code!  However, if you make
-   improvements try to submit a pull request or patch back to the original
-   author.
+   .. note::
 
-   Follow your passions:  if you're interested in getting further involved,
-   projects may have ways of being part of code review teams, issue triage,
-   support, etc.  IRC channels, and so forth.
+       Get started, it's easy.
 
+       For IT professionals, contribute in any way.
+       Build your profile.
 
-* Open source is fundamental to development
-* It's easy to get started now:
+       For industry, recognise the benefits.
 
-  * Create your accounts.  Establish an identity.
-  * Choose open source projects for your work
-  * Grow your skills
-  * Contribute: bug reports, suggestions, patches
-  * Make your own code open for others
-  * Get further involved in projects and make a difference.
-
-* Provide prospective employers with public profile URLs
-* Follow your passions!
+       Go forth and make a difference!
 
 
 Shameless plugs
@@ -481,7 +439,6 @@ Links and Resources
     (unlimited academic plans)
   * JSONResume: http://jsonresume.com
 
-* This talk: http://davidjb.com/talks, http://github.com/davidjb/talks
 
 
 Built with
