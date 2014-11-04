@@ -27,8 +27,6 @@ Are you...
 * Seeking live portfolio to show your future employers?
 * Wanting to make a *real* difference to *real-world* projects?
 
-[picture]
-
 
 .. slide:: Let's look at open source.
    :level: 1
@@ -39,7 +37,8 @@ Me in 10 seconds
 
 .. note::
 
-   You're about to learn why I try to only work with O/S.
+   You're about to learn why I try to only work with O/S:
+   because it's awesome.
 
 
 * '08 JCU IT Honours graduate
@@ -48,7 +47,17 @@ Me in 10 seconds
 * DevOps:  development and operations
 * Web and software developer
 * Project management
-* Work primarily with open source
+* Working primarily with open source software
+
+
+.. slide::
+
+    .. figure:: ./_static/Open-Source-Developers-What-I-Actually-Do.jpg
+       :class: fill
+
+       © `Meme Generator Guru`_
+
+    .. _Meme Generator Guru: http://www.memegenerator.guru/2013/05/16/open-source-developers-what-i-actually-do/
 
 
 What is open source?
@@ -85,7 +94,6 @@ What is open source?
     contributions, and collaboration around further development embody the
     open source ethos for software.
 
-
 * A development process
 * Open sharing of concepts, designs and work.
 * Freely licenced, in terms of *freedom* of speech
@@ -99,7 +107,7 @@ What is open source?
   * **Developers**: making source code openly available (without restriction)
   * **Users**: get the ability to access, change, view source code (without
     restrction)
-  * **Community**: open to accept criticism, contributions & foster
+  * **Community**: being open to accept criticism, contributions & foster
     collaboration
 
 
@@ -120,32 +128,53 @@ Who uses open source?
 
 .. rst-class:: build
 
-* Me (this presentation)
+* Me (this presentation, my OS etc)
 * You
 * Everyone!
-* Yes, even Windows and Mac users.
-* [open source logos]
+* Yes, even Windows users.
+* 
+  .. image:: /_static/tux.gif
+    :height: 100px
 
+  .. image:: /_static/android.png
+    :height: 100px
+
+  .. image:: /_static/firefox.png
+    :height: 100px
+
+  .. image:: /_static/python.png
+    :width: 300px
+
+  .. image:: /_static/php.png
+    :height: 80px
+
+* ~82% of websites use an open source server or programming language.
+  (`Source`_)
+
+* `Tux`_ © lewing@isc.tamu.edu, Android CC-BY `Android`_
+
+.. _Tux: http://www.isc.tamu.edu/~lewing/linux/
+.. _Source: http://w3techs.com/technologies/cross/web_server/ranking
+.. _Android:  https://developer.android.com/distribute/tools/promote/brand.html
 
 .. nextslide::
 
-* 2010: 98% of top 300 companies, 29% contribute back
+* **2010**: 98% of top 300 companies, 29% contribute back
   (`1 <http://www.pcmag.com/article2/0,2817,2367829,00.asp>`_)
-* 2014: 50% of all enterprises expected to contribute & adopt
+* **2014**: 50% of all enterprises expected to contribute & adopt
   (`2 <http://www.slideshare.net/mjskok/2014-future-of-open-source-8th-annual-survey-results>`_)
+* **Why?**  Quality, freedom, features, security, ease of deployment, cost.
 
 * Closed source uses open source as well:
 
-  * iOS, Mac OS X
-  * Twitter, Facebook, Google, Yahoo, Microsoft...
-  * Many closed companies release open source libraries and modules
-
-* **Why?**  Quality, freedom, features, security, ease of deployment, cost.
+  * iOS, Mac OS X, Windows (kinda)
+  * Twitter, Facebook, Google, Yahoo, Amazon, Microsoft Azure...
+  * Many companies release code as open source libraries and modules
 
 
 
-How does this benefit me?
-=========================
+Awesome, but how does this benefit me?
+======================================
 
     What do you call a Linux volunteer who just contributed his or her 6th patch
     to the Linux kernel? **Hired**.
@@ -222,18 +251,6 @@ Open source, open resume
   * Be part of a huge team; one you may never meet
   * Just because we're not in Silicon Valley doesn't mean anything.
 
-
-Make a difference
-=================
-
-* Your contributions **will** help others, and you **will** benefit from
-  others.
-
-  * You might even help yourself!
-
-* You can make a difference from anywhere, and any position.
-
-* Be proud that your work is powering organisations everywhere.
 
 
 Getting started
@@ -312,6 +329,18 @@ Getting started
 
 * **Attend conferences, user groups.**  In person, online; get further
   involved.
+
+
+Making a difference
+===================
+
+* Your contributions **will** help others and their work **will** benefit you.
+
+  * You might even help yourself!
+
+* You can make a difference from anywhere, and any job.
+
+* Be proud that your work could power organisations everywhere.
 
 
 Myth busting
@@ -424,7 +453,7 @@ Shameless plugs
   If you work with or are interested in Python, come see me
   or get in touch at http://pynq.org.
 
-  .. image:: /_static/python-logo-master-v3-TM.png
+  .. image:: /_static/python.png
 
 * Follow me:
 
