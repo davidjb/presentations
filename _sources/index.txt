@@ -30,6 +30,7 @@ Do you want...
    * ...to expand your skillset & open up new opportunities?
    * ...to create a dynamic portfolio to show your future employers?
    * ...to make a *real* difference to *real-world* projects?
+   * Or maybe: ...to improve your business' IT solutions?
 
 * ...to work with the world's biggest software team?
 * ...to expand your skillset & open up new opportunities?
@@ -70,6 +71,10 @@ Me in 20 seconds
 
 
 .. slide::
+
+    .. note::
+       Roughly translates to what people think.
+
 
     .. figure:: ./_static/Open-Source-Developers-What-I-Actually-Do.jpg
        :class: fill
