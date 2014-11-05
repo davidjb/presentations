@@ -123,8 +123,9 @@ Who uses open source?
    * Everyone!  (browsers)
    * Yes, even Windows users.
    * ~82% of web content involves open source.
+   * **2014**: 50% of all enterprises expected to contribute & adopt open source
 
-   So this is all well and good, but how can this benefit me?
+   But why are they doing this?
 
 .. rst-class:: build
 
@@ -166,8 +167,8 @@ Why open source?
 
 .. note::
 
-    Why?  A 2014 survey from BlackDuck (OpenHub) of professionals:
-    * Cost (maintenance etc)
+    Why?  A 2014 survey from BlackDuck (OpenHub) of 1200 professionals:
+    * Cost (maintenance)
     * Higher quality
     * Freedom of changing code
     * Better features, higher
@@ -200,15 +201,15 @@ Awesome, but how can this benefit me?
 .. note::
 
     What do you call a Linux volunteer who just contributed his or her 6th patch
-    to the Linux kernel? **Hired**.  -- InformationWeek
+    to the Linux kernel? **Hired**.  -- InformationWeek, 2014
 
     The in-joke is that after 5, you'll already have a job offer.
 
-    From a corporate POV, it shows O/S in use, and in demand.
+    It shows O/S in use, and in demand, from a corporate perspective.
 
 
 
-Open opportunities: open source
+Open source opens opportunities
 ===============================
 
 .. note::
@@ -276,9 +277,7 @@ Getting started
       There's always new ideas.
 
 
-
-
-* **Create your profile.** Sign up for `GitHub <https://github.com>`_ and
+* **Create your profiles.** Sign up for `GitHub <https://github.com>`_ and
   `Bitbucket <https://bitbucket.org/>`_ accounts.
 
 * **Release your code.** If it helps you, it'll help others.
@@ -316,7 +315,8 @@ Myth busting
 
    * **Closed source is cheaper.**  Price of freedom?
      What if a vendor/company disappears?  Starts charging lots more?
-     what's your escape plan?  Open source, just pick someone else.
+     what's your escape plan?  Open source: self-manage, or select another
+     support channel.
 
    * **I can't work in a regional area.**  Open source is everywhere.
      Companies hire remotely.
@@ -327,7 +327,7 @@ Myth busting
 * **I can't help.**  It's not all about programming.  It's easy to contribute
   :strike:`speling correcxions` spelling corrections.
 
-* **I can do it all myself.**  Maybe, if you're Google.
+* **I can do it all myself.**  Probably not unless you're Google.
 
 * **Open source isn't safe.**  More eyes on the code make it safer. Open
   source makes audits easy.
