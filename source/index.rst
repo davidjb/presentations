@@ -7,10 +7,8 @@ Part of something bigger:
 
 .. note::
 
-    Ask about open source, who has used software?
+    Who has used anything open source, software?
     Who has contributed something?
-
-    Don't say effectively, actually
 
 
 .. figure:: /_static/open-sauce.jpg
